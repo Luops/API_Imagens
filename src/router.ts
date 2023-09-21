@@ -5,13 +5,17 @@ const multer = require("multer");
 const multerConfig = require("../config/multer");
 
 // Controller
-import { createImage } from "./controllers/imageController";
+import { createProduct } from "./controllers/productController";
 
 // Services
-import { findProducts, deleteProduct } from "./services/productService";
+import {
+  findProducts,
+  findProductById,
+  deleteProductById,
+} from "./services/productService";
 
 // Model
-const ImageModel = require("./models/Images");
+const ProductModel = require("./models/Product");
 
 const router = Router();
 
@@ -22,6 +26,7 @@ export default router
   /**
    * Rotas para os produtos
    */
-  .post("/images", multer(multerConfig).single("file"), createImage) // Criar um produto
+  .post("/images", multer(multerConfig).single("file"), createProduct) // Criar um produto
   .get("/images", findProducts) // Listar todos os produtos
-  .delete("/images/:id", deleteProduct); 
+  .get("/images/:id", findProductById) // Listar produto por ID
+  .delete("/images/:id", deleteProductById); // Deletar produto por ID

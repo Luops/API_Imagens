@@ -2,7 +2,7 @@
 import { Request, Response } from "express";
 
 // Model
-import { ImageModel } from "./../models/Images";
+import { ProductModel } from "../models/Product";
 
 // Logger
 import Logger from "../../config/logger";
@@ -14,7 +14,7 @@ const multerConfig = require("../../config/logger");
 import bcrypt from "bcrypt";
 import { v4 as uuidv4 } from "uuid";
 
-export async function createImage(req: Request, res: Response) {
+export async function createProduct(req: Request, res: Response) {
   // return res.status(200).send("Deu certo o controller"); // Retornar a mensagem quando entrar na rota pelo POSTMAN
   try {
     /**
@@ -30,7 +30,7 @@ export async function createImage(req: Request, res: Response) {
     /**
      * Coletar dados do que foi escrito e dos arquivos e enviar para o mongoDB
      */
-    const image = await ImageModel.create({
+    const product = await ProductModel.create({
       title: req.body.title,
       description: req.body.description,
       nameImage,
@@ -38,7 +38,7 @@ export async function createImage(req: Request, res: Response) {
       key,
       url,
     }); // Aguardando um input do model, e criar o usuário com os dados da requisição
-    return res.status(201).json(image); // Retornar o status 201 (algo criado no sistema) e mandar os dados via json
+    return res.status(201).json(product); // Retornar o status 201 (algo criado no sistema) e mandar os dados via json
   } catch (e: any) {
     Logger.error(`Erro no sistema: ${e.message}`);
   }

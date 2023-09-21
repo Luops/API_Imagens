@@ -3,6 +3,7 @@ require("dotenv").config();
 
 import express from "express";
 import config from "config";
+const path = require("path");
 
 const app = express();
 
@@ -28,6 +29,9 @@ app.use("/api/", router); // Isso é importante para utilizar o POSTMAN
 
 // Variável para a porta da API
 const port = config.get<number>("port"); // Pegar o número do "port"
+
+// Gravar arquivos no servidor do node
+app.use('/files', express.static(path.resolve(__dirname, '..', 'tmp', 'uploads')));
 
 // Configuração da porta do express
 app.listen(port, async () => {

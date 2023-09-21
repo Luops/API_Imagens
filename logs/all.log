@@ -1621,3 +1621,1225 @@
 2023-09-14 19:57:12 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
 2023-09-14 19:57:44 - [32minfo[39m: [32mConectou ao DB![39m
 2023-09-14 19:57:44 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-14 19:57:56 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-14 19:57:56 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-14 19:58:28 - [31merror[39m: [31mErro no sistema: products.remove is not a function[39m
+2023-09-14 19:58:31 - [35mhttp[39m: [35mDELETE /api/images/65038d206253c51a12ba9c26 - - - - ms[39m
+[35m[39m
+2023-09-14 19:58:55 - [35mhttp[39m: [35mDELETE /api/images/65038d206253c51a12ba9c26 200 - - 177.898 ms[39m
+[35m[39m
+2023-09-14 19:59:00 - [35mhttp[39m: [35mGET /api/images 200 - - 178.540 ms[39m
+[35m[39m
+2023-09-15 19:08:39 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-15 19:08:39 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-15 19:09:49 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-15 19:09:49 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-15 19:10:19 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-15 19:10:19 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-15 19:10:27 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-15 19:10:27 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-15 19:10:39 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-15 19:10:39 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-15 19:10:46 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-15 19:10:46 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-15 19:11:50 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-15 19:11:50 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-15 19:11:57 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-15 19:11:57 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-15 19:12:10 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-15 19:12:10 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-15 19:12:18 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-15 19:12:18 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-15 19:12:37 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-15 19:12:37 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-15 19:13:38 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-15 19:13:38 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-15 19:13:46 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-15 19:13:46 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-15 19:13:48 - [31merror[39m: [31mErro no sistema: Parameter "filter" to findOne() must be an object, got "65038d206253c51a12ba9c26" (type string)[39m
+2023-09-15 19:13:56 - [35mhttp[39m: [35mGET /api/images/65038d206253c51a12ba9c26 - - - - ms[39m
+[35m[39m
+2023-09-15 19:14:28 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-15 19:14:28 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-15 19:15:16 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-15 19:15:16 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-15 19:15:17 - [35mhttp[39m: [35mGET /api/images/65038d206253c51a12ba9c26 404 - - 1065.955 ms[39m
+[35m[39m
+2023-09-15 19:15:32 - [31merror[39m: [31mErro no sistema: Cannot destructure property 'originalname' of 'req.file' as it is undefined.[39m
+2023-09-15 19:15:42 - [35mhttp[39m: [35mPOST /api/images - - - - ms[39m
+[35m[39m
+2023-09-15 19:15:59 - [35mhttp[39m: [35mPOST /api/images 201 - - 579.551 ms[39m
+[35m[39m
+2023-09-15 19:16:54 - [35mhttp[39m: [35mGET /api/images/6504d79e2a9e13d90a15c75b 200 - - 144.855 ms[39m
+[35m[39m
+2023-09-15 19:17:51 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-15 19:17:51 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-15 19:18:01 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-15 19:18:01 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-15 19:18:09 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-15 19:18:09 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-15 19:18:11 - [31merror[39m: [31mErro no sistema: ImageModel is not defined[39m
+2023-09-15 19:18:30 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-15 19:18:30 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-15 19:18:31 - [35mhttp[39m: [35mGET /api/images/6504d79e2a9e13d90a15c75b 200 - - 1317.845 ms[39m
+[35m[39m
+2023-09-15 19:18:35 - [35mhttp[39m: [35mGET /api/images 200 - - 144.749 ms[39m
+[35m[39m
+2023-09-15 19:18:43 - [35mhttp[39m: [35mDELETE /api/images/65038d206253c51a12ba9c26 200 - - 144.632 ms[39m
+[35m[39m
+2023-09-15 19:18:48 - [35mhttp[39m: [35mGET /api/images/6504d79e2a9e13d90a15c75b 200 - - 143.736 ms[39m
+[35m[39m
+2023-09-15 19:18:54 - [31merror[39m: [31mErro no sistema: product.remove is not a function[39m
+2023-09-15 19:19:01 - [35mhttp[39m: [35mDELETE /api/images/6504d79e2a9e13d90a15c75b - - - - ms[39m
+[35m[39m
+2023-09-15 19:19:05 - [35mhttp[39m: [35mGET /api/images 200 - - 142.613 ms[39m
+[35m[39m
+2023-09-15 19:20:20 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-15 19:20:20 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-15 19:20:34 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-15 19:20:34 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-15 19:20:34 - [31merror[39m: [31mErro no sistema: Cannot read properties of undefined (reading 'create')[39m
+2023-09-15 19:20:41 - [35mhttp[39m: [35mPOST /api/images - - - - ms[39m
+[35m[39m
+2023-09-15 19:24:32 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-15 19:24:32 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-15 19:24:34 - [35mhttp[39m: [35mPOST /api/images 201 - - 567.745 ms[39m
+[35m[39m
+2023-09-15 19:24:42 - [35mhttp[39m: [35mGET /api/images 200 - - 154.298 ms[39m
+[35m[39m
+2023-09-15 19:24:47 - [35mhttp[39m: [35mGET /api/images/6504d9a2b9b09db0988f00b3 200 - - 145.871 ms[39m
+[35m[39m
+2023-09-15 19:24:56 - [35mhttp[39m: [35mDELETE /api/images/6504d9a2b9b09db0988f00b3 204 - - 148.814 ms[39m
+[35m[39m
+2023-09-15 19:25:37 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-15 19:25:37 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-15 19:25:42 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-15 19:25:42 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-15 19:25:48 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-15 19:25:48 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-15 19:25:53 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-15 19:25:53 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-15 19:26:03 - [35mhttp[39m: [35mPOST /api/images 201 - - 540.324 ms[39m
+[35m[39m
+2023-09-15 19:26:11 - [35mhttp[39m: [35mDELETE /api/images/6504d9fb1cf8446ee55c7bc6 204 - - 155.335 ms[39m
+[35m[39m
+2023-09-15 19:26:24 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-15 19:26:24 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-15 19:26:33 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-15 19:26:33 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-15 19:28:26 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-15 19:28:26 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-15 19:28:43 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-15 19:28:43 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-15 19:28:56 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-15 19:28:56 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-15 19:29:09 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-15 19:29:09 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-15 19:29:48 - [35mhttp[39m: [35mGET /files/7e4529dc2b89c38e0c3e457538274ed5-Capturar.png 200 - - 7.622 ms[39m
+[35m[39m
+2023-09-15 19:29:48 - [35mhttp[39m: [35mGET /favicon.ico 404 - - 2.516 ms[39m
+[35m[39m
+2023-09-15 19:30:42 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-15 19:30:42 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-15 19:31:01 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-15 19:31:01 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-15 19:31:05 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-15 19:31:05 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-15 19:31:28 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-15 19:31:28 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-15 19:32:08 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-15 19:32:08 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-15 19:32:17 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-15 19:32:17 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-15 19:32:22 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-15 19:32:22 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-15 19:32:28 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-15 19:32:28 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-15 19:32:41 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-15 19:32:41 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-15 19:32:49 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-15 19:32:49 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-15 19:33:04 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-15 19:33:04 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-15 19:33:44 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-15 19:33:44 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-15 19:33:55 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-15 19:33:55 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-15 19:34:20 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-15 19:34:20 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-15 19:34:25 - [35mhttp[39m: [35mPOST /api/images 201 - - 182.218 ms[39m
+[35m[39m
+2023-09-15 19:34:45 - [35mhttp[39m: [35mGET /files/424909dc1640e2a92e4f09d6ac0e7846-Capturar3.PNG 200 - - 3.781 ms[39m
+[35m[39m
+2023-09-15 19:36:00 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-15 19:36:00 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-15 19:36:53 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-15 19:36:53 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-15 19:36:58 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-15 19:36:58 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-15 19:37:21 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-15 19:37:21 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-15 19:37:52 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-15 19:37:52 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-15 19:38:01 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-15 19:38:01 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-15 19:38:19 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-15 19:38:19 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-15 19:38:29 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-15 19:38:29 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-15 19:38:47 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-15 19:38:47 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-15 19:39:12 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-15 19:39:12 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-15 19:40:07 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-15 19:40:07 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-15 19:40:21 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-15 19:40:21 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-15 19:40:23 - [35mhttp[39m: [35mGET /api/images 200 - - 153.094 ms[39m
+[35m[39m
+2023-09-15 19:42:12 - [35mhttp[39m: [35mGET /api/images 200 - - 146.912 ms[39m
+[35m[39m
+2023-09-15 19:42:22 - [35mhttp[39m: [35mDELETE /api/images/6504dbf06018f39295e34bc3 204 - - 158.905 ms[39m
+[35m[39m
+2023-09-15 19:42:25 - [35mhttp[39m: [35mGET /api/images 200 - - 146.404 ms[39m
+[35m[39m
+2023-09-15 19:42:29 - [35mhttp[39m: [35mPOST /api/images 201 - - 580.349 ms[39m
+[35m[39m
+2023-09-15 19:42:59 - [35mhttp[39m: [35mDELETE /api/images/6504ddd55e0fe3922ff2c582 204 - - 151.231 ms[39m
+[35m[39m
+2023-09-15 19:43:26 - [35mhttp[39m: [35mGET /api/images 200 - - 145.183 ms[39m
+[35m[39m
+2023-09-15 19:46:42 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-15 19:46:42 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-15 19:46:48 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-15 19:46:48 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-15 19:46:56 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-15 19:46:56 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-15 19:47:18 - [35mhttp[39m: [35mPOST /api/images 201 - - 598.489 ms[39m
+[35m[39m
+2023-09-15 19:47:20 - [35mhttp[39m: [35mGET /api/images 200 - - 150.873 ms[39m
+[35m[39m
+2023-09-15 19:47:36 - [35mhttp[39m: [35mGET /api/images 200 - - 143.306 ms[39m
+[35m[39m
+2023-09-15 19:47:46 - [35mhttp[39m: [35mDELETE /api/images/6504def675669dcdbb0fbc10 204 - - 152.412 ms[39m
+[35m[39m
+2023-09-15 19:48:12 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-15 19:48:12 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-15 19:48:36 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-15 19:48:36 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-15 19:49:26 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-15 19:49:26 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-15 19:49:52 - [35mhttp[39m: [35mGET /api/images 200 - - 160.594 ms[39m
+[35m[39m
+2023-09-15 19:49:56 - [35mhttp[39m: [35mPOST /api/images 201 - - 569.163 ms[39m
+[35m[39m
+2023-09-15 19:50:12 - [35mhttp[39m: [35mDELETE /api/images/6504df9497da6e1078979cd5 204 - - 157.324 ms[39m
+[35m[39m
+2023-09-15 19:50:31 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-15 19:50:31 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-15 19:51:28 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-15 19:51:28 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-15 19:51:49 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-15 19:51:49 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-15 19:52:02 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-15 19:52:02 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-15 19:52:09 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-15 19:52:09 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-15 19:52:18 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-15 19:52:18 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-15 19:52:32 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-15 19:52:32 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-15 19:52:57 - [35mhttp[39m: [35mGET /api/images 200 - - 154.599 ms[39m
+[35m[39m
+2023-09-15 19:53:00 - [35mhttp[39m: [35mPOST /api/images 201 - - 532.563 ms[39m
+[35m[39m
+2023-09-15 19:53:06 - [35mhttp[39m: [35mGET /api/images 200 - - 149.599 ms[39m
+[35m[39m
+2023-09-15 19:53:14 - [35mhttp[39m: [35mDELETE /api/images/6504e04c8c84d38003ecb57f 204 - - 149.835 ms[39m
+[35m[39m
+2023-09-15 19:53:56 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-15 19:53:56 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-15 19:56:52 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-15 19:56:52 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-15 19:56:58 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-15 19:56:58 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-15 19:56:59 - [35mhttp[39m: [35mPOST /api/images 201 - - 533.072 ms[39m
+[35m[39m
+2023-09-15 19:57:24 - [35mhttp[39m: [35mDELETE /api/images/6504e13a3540d893348178d4 204 - - 161.541 ms[39m
+[35m[39m
+2023-09-15 20:02:00 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-15 20:02:00 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-15 20:02:07 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-15 20:02:07 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-15 20:02:39 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-15 20:02:39 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-15 20:02:52 - [35mhttp[39m: [35mGET /api/images 200 - - 158.209 ms[39m
+[35m[39m
+2023-09-15 20:03:06 - [35mhttp[39m: [35mPOST /api/images 201 - - 503.366 ms[39m
+[35m[39m
+2023-09-15 20:03:16 - [35mhttp[39m: [35mDELETE /api/images/6504e2aaf2a92830185bdba3 204 - - 150.141 ms[39m
+[35m[39m
+2023-09-15 20:03:32 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-15 20:03:32 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-15 20:04:07 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-15 20:04:07 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-15 20:04:11 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-15 20:04:11 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-15 20:04:14 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-15 20:04:14 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-15 20:04:19 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-15 20:04:19 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-15 20:05:19 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-15 20:05:19 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-15 20:05:35 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-15 20:05:35 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-15 20:05:39 - [35mhttp[39m: [35mGET /api/images 200 - - 151.534 ms[39m
+[35m[39m
+2023-09-15 20:05:55 - [35mhttp[39m: [35mGET /api/images 200 - - 143.532 ms[39m
+[35m[39m
+2023-09-15 20:05:57 - [35mhttp[39m: [35mGET /api/images 200 - - 142.755 ms[39m
+[35m[39m
+2023-09-15 20:05:58 - [35mhttp[39m: [35mGET /api/images 200 - - 142.885 ms[39m
+[35m[39m
+2023-09-15 20:06:02 - [35mhttp[39m: [35mPOST /api/images 201 - - 552.934 ms[39m
+[35m[39m
+2023-09-15 20:06:05 - [35mhttp[39m: [35mGET /api/images 200 - - 147.173 ms[39m
+[35m[39m
+2023-09-15 20:06:19 - [31merror[39m: [31mErro no sistema: product.remove is not a function[39m
+2023-09-15 20:06:23 - [35mhttp[39m: [35mDELETE /api/images/6504e35ae91c85d95b38036e - - - - ms[39m
+[35m[39m
+2023-09-15 20:06:29 - [35mhttp[39m: [35mGET /api/images 200 - - 145.012 ms[39m
+[35m[39m
+2023-09-15 20:09:48 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-15 20:09:48 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-15 20:09:51 - [35mhttp[39m: [35mGET /api/images 200 - - 162.448 ms[39m
+[35m[39m
+2023-09-15 20:09:55 - [35mhttp[39m: [35mGET /api/images 200 - - 144.218 ms[39m
+[35m[39m
+2023-09-15 20:10:06 - [31merror[39m: [31mErro no sistema: Model.findById() no longer accepts a callback[39m
+2023-09-15 20:10:18 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-15 20:10:18 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-15 20:10:39 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-15 20:10:39 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-15 20:10:51 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-15 20:10:51 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-15 20:11:09 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-15 20:11:09 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-15 20:11:16 - [35mhttp[39m: [35mGET /api/images 200 - - 155.686 ms[39m
+[35m[39m
+2023-09-15 20:11:17 - [35mhttp[39m: [35mGET /api/images 200 - - 144.098 ms[39m
+[35m[39m
+2023-09-15 20:12:16 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-15 20:12:16 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-15 20:12:33 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-15 20:12:33 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-15 20:12:48 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-15 20:12:48 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-15 20:12:49 - [31merror[39m: [31mErro no sistema: product.remove is not a function[39m
+2023-09-15 20:13:03 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-15 20:13:03 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-15 20:13:13 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-15 20:13:13 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-15 20:13:17 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-15 20:13:17 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-15 20:13:25 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-15 20:13:25 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-18 19:10:01 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-18 19:10:01 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-18 19:11:36 - [35mhttp[39m: [35mGET /api/images 200 - - 159.495 ms[39m
+[35m[39m
+2023-09-18 19:11:49 - [31merror[39m: [31mErro no sistema: product.remove is not a function[39m
+2023-09-18 19:11:52 - [35mhttp[39m: [35mDELETE /api/images/6504e35ae91c85d95b38036e - - - - ms[39m
+[35m[39m
+2023-09-18 19:12:08 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-18 19:12:08 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-18 19:12:16 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-18 19:12:16 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-18 19:12:18 - [35mhttp[39m: [35mDELETE /api/images/6504e35ae91c85d95b38036e 204 - - 164.528 ms[39m
+[35m[39m
+2023-09-18 19:13:23 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-18 19:13:23 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-18 19:13:30 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-18 19:13:30 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-18 19:14:22 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-18 19:14:22 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-18 19:14:29 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-18 19:14:29 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-18 19:14:53 - [31merror[39m: [31mErro no sistema: Cannot destructure property 'originalname' of 'req.file' as it is undefined.[39m
+2023-09-18 19:15:00 - [35mhttp[39m: [35mPOST /api/images - - - - ms[39m
+[35m[39m
+2023-09-18 19:15:23 - [35mhttp[39m: [35mPOST /api/images 201 - - 610.732 ms[39m
+[35m[39m
+2023-09-18 19:15:34 - [35mhttp[39m: [35mGET /api/images 200 - - 155.285 ms[39m
+[35m[39m
+2023-09-18 19:15:58 - [35mhttp[39m: [35mDELETE /api/images/6508cbfbd77d66ff5c0c22ba 204 - - 155.205 ms[39m
+[35m[39m
+2023-09-18 19:16:08 - [35mhttp[39m: [35mGET /api/images 200 - - 147.103 ms[39m
+[35m[39m
+2023-09-18 19:16:23 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-18 19:16:23 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-18 19:17:53 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-18 19:17:53 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-18 19:17:58 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-18 19:17:58 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-18 19:18:01 - [35mhttp[39m: [35mGET /api/images 200 - - 156.490 ms[39m
+[35m[39m
+2023-09-18 19:18:04 - [35mhttp[39m: [35mPOST /api/images 201 - - 581.453 ms[39m
+[35m[39m
+2023-09-18 19:18:10 - [35mhttp[39m: [35mGET /api/images 200 - - 150.604 ms[39m
+[35m[39m
+2023-09-18 19:18:30 - [35mhttp[39m: [35mDELETE /api/images/6508cc9c97632566bf1433cc 204 - - 155.234 ms[39m
+[35m[39m
+2023-09-18 19:18:33 - [35mhttp[39m: [35mGET /api/images 200 - - 147.460 ms[39m
+[35m[39m
+2023-09-18 19:19:02 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-18 19:19:02 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-18 19:19:07 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-18 19:19:07 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-18 19:19:18 - [35mhttp[39m: [35mGET /api/images 200 - - 156.698 ms[39m
+[35m[39m
+2023-09-18 19:19:21 - [35mhttp[39m: [35mPOST /api/images 201 - - 631.754 ms[39m
+[35m[39m
+2023-09-18 19:19:29 - [35mhttp[39m: [35mDELETE /api/images/6508cce9fed75a6e08bee6b2 204 - - 156.421 ms[39m
+[35m[39m
+2023-09-18 19:24:11 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-18 19:24:11 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-18 19:24:24 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-18 19:24:24 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-18 19:24:35 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-18 19:24:35 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-18 19:25:07 - [35mhttp[39m: [35mGET /api/images 200 - - 164.464 ms[39m
+[35m[39m
+2023-09-18 19:25:15 - [35mhttp[39m: [35mGET /api/images/6504d9a2b9b09db0988f00b3 404 - - 151.574 ms[39m
+[35m[39m
+2023-09-18 19:26:44 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-18 19:26:44 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-18 19:26:49 - [35mhttp[39m: [35mPOST /api/images 201 - - 612.730 ms[39m
+[35m[39m
+2023-09-18 19:26:54 - [35mhttp[39m: [35mGET /api/images 200 - - 154.904 ms[39m
+[35m[39m
+2023-09-18 19:26:58 - [35mhttp[39m: [35mDELETE /api/images/6508cea92d25643f08a2daa3 204 - - 157.201 ms[39m
+[35m[39m
+2023-09-18 19:27:01 - [35mhttp[39m: [35mGET /api/images 200 - - 148.080 ms[39m
+[35m[39m
+2023-09-18 19:27:34 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-18 19:27:34 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-18 19:28:35 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-18 19:28:35 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-18 19:28:51 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-18 19:28:51 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-18 19:29:06 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-18 19:29:06 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-18 19:29:12 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-18 19:29:12 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-18 19:29:29 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-18 19:29:29 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-18 19:29:33 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-18 19:29:33 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-18 19:29:44 - [35mhttp[39m: [35mGET /api/images 200 - - 156.118 ms[39m
+[35m[39m
+2023-09-18 19:29:55 - [35mhttp[39m: [35mPOST /api/images 201 - - 607.644 ms[39m
+[35m[39m
+2023-09-18 19:29:59 - [35mhttp[39m: [35mGET /api/images 200 - - 153.848 ms[39m
+[35m[39m
+2023-09-18 19:30:06 - [35mhttp[39m: [35mDELETE /api/images/6508cf63d52ed81d6ef4be44 204 - - 155.283 ms[39m
+[35m[39m
+2023-09-18 19:33:55 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-18 19:33:55 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-18 19:34:02 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-18 19:34:02 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-18 19:34:19 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-18 19:34:19 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-18 19:34:45 - [35mhttp[39m: [35mGET /api/images 200 - - 163.321 ms[39m
+[35m[39m
+2023-09-18 19:34:46 - [35mhttp[39m: [35mGET /api/images 200 - - 149.450 ms[39m
+[35m[39m
+2023-09-18 19:34:59 - [35mhttp[39m: [35mPOST /api/images 201 - - 600.032 ms[39m
+[35m[39m
+2023-09-18 19:35:01 - [35mhttp[39m: [35mGET /api/images 200 - - 148.764 ms[39m
+[35m[39m
+2023-09-18 19:35:17 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-18 19:35:17 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-18 19:41:29 - [35mhttp[39m: [35mGET /api/images 200 - - 165.304 ms[39m
+[35m[39m
+2023-09-18 19:41:30 - [35mhttp[39m: [35mGET /api/images 200 - - 149.493 ms[39m
+[35m[39m
+2023-09-18 19:41:31 - [35mhttp[39m: [35mGET /api/images 200 - - 150.365 ms[39m
+[35m[39m
+2023-09-18 19:42:08 - [35mhttp[39m: [35mDELETE /api/images/6508d09390e18705a8013be3 204 - - 186.848 ms[39m
+[35m[39m
+2023-09-18 19:43:05 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-18 19:43:05 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-18 19:43:24 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-18 19:43:24 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-18 19:43:45 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-18 19:43:45 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-18 19:48:30 - [35mhttp[39m: [35mGET /api/images 200 - - 155.958 ms[39m
+[35m[39m
+2023-09-18 19:49:02 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-18 19:49:02 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-18 19:52:34 - [35mhttp[39m: [35mGET /api/images 200 - - 156.606 ms[39m
+[35m[39m
+2023-09-18 19:52:37 - [35mhttp[39m: [35mPOST /api/images 500 - - 1081.558 ms[39m
+[35m[39m
+2023-09-18 19:52:42 - [35mhttp[39m: [35mPOST /api/images 500 - - 1030.253 ms[39m
+[35m[39m
+2023-09-18 19:53:54 - [35mhttp[39m: [35mPOST /api/images 500 - - 1016.041 ms[39m
+[35m[39m
+2023-09-18 19:53:56 - [35mhttp[39m: [35mPOST /api/images 500 - - 1022.439 ms[39m
+[35m[39m
+2023-09-18 19:54:09 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-18 19:54:09 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-18 19:54:11 - [35mhttp[39m: [35mPOST /api/images 201 - - 562.422 ms[39m
+[35m[39m
+2023-09-18 19:54:30 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-18 19:54:30 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-18 19:54:35 - [35mhttp[39m: [35mGET /api/images 200 - - 157.689 ms[39m
+[35m[39m
+2023-09-18 19:54:58 - [35mhttp[39m: [35mDELETE /api/images/6508d5133f4335f6d79b5b70 204 - - 158.400 ms[39m
+[35m[39m
+2023-09-18 19:56:40 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-18 19:56:40 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-18 19:57:24 - [35mhttp[39m: [35mGET /api/images 200 - - 161.374 ms[39m
+[35m[39m
+2023-09-18 19:57:28 - [35mhttp[39m: [35mPOST /api/images 201 - - 631.269 ms[39m
+[35m[39m
+2023-09-18 19:57:33 - [35mhttp[39m: [35mGET /api/images 200 - - 149.956 ms[39m
+[35m[39m
+2023-09-18 19:57:38 - [35mhttp[39m: [35mDELETE /api/images/6508d5d773fdb714c9334f91 204 - - 152.017 ms[39m
+[35m[39m
+2023-09-18 19:58:08 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-18 19:58:08 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-18 19:58:16 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-18 19:58:16 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-18 19:58:31 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-18 19:58:31 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-18 19:58:54 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-18 19:58:54 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-18 19:59:11 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-18 19:59:11 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-18 19:59:20 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-18 19:59:20 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-18 19:59:25 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-18 19:59:25 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-18 19:59:30 - [35mhttp[39m: [35mGET /api/images 200 - - 155.998 ms[39m
+[35m[39m
+2023-09-18 19:59:44 - [35mhttp[39m: [35mPOST /api/images 201 - - 581.105 ms[39m
+[35m[39m
+2023-09-18 19:59:52 - [35mhttp[39m: [35mDELETE /api/images/6508d6603c7f125800d290a7 204 - - 155.650 ms[39m
+[35m[39m
+2023-09-18 20:00:28 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-18 20:00:28 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-18 20:00:45 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-18 20:00:45 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-18 20:00:54 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-18 20:00:54 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-18 20:00:55 - [35mhttp[39m: [35mGET /api/images 200 - - 158.597 ms[39m
+[35m[39m
+2023-09-18 20:00:59 - [35mhttp[39m: [35mPOST /api/images 201 - - 581.540 ms[39m
+[35m[39m
+2023-09-18 20:01:06 - [35mhttp[39m: [35mDELETE /api/images/6508d6ab25aed771dce9c9a3 204 - - 155.449 ms[39m
+[35m[39m
+2023-09-18 20:01:30 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-18 20:01:30 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-18 20:01:52 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-18 20:01:52 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-18 20:02:27 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-18 20:02:27 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-18 20:02:45 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-18 20:02:45 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-18 20:02:49 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-18 20:02:49 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-18 20:02:55 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-18 20:02:55 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-18 20:03:04 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-18 20:03:04 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-18 20:03:11 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-18 20:03:11 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-18 20:03:31 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-18 20:03:31 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-18 20:03:37 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-18 20:03:37 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-18 20:04:04 - [35mhttp[39m: [35mGET /api/images 200 - - 159.353 ms[39m
+[35m[39m
+2023-09-18 20:04:22 - [35mhttp[39m: [35mPOST /api/images 201 - - 643.872 ms[39m
+[35m[39m
+2023-09-18 20:04:26 - [35mhttp[39m: [35mGET /api/images 200 - - 148.374 ms[39m
+[35m[39m
+2023-09-18 20:04:41 - [35mhttp[39m: [35mDELETE /api/images/6508d776b33be45297625603 204 - - 8965.276 ms[39m
+[35m[39m
+2023-09-18 20:04:48 - [35mhttp[39m: [35mGET /api/images 200 - - 148.937 ms[39m
+[35m[39m
+2023-09-18 20:04:49 - [35mhttp[39m: [35mGET /api/images 200 - - 147.072 ms[39m
+[35m[39m
+2023-09-18 20:05:59 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-18 20:05:59 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-18 20:06:25 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-18 20:06:25 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-18 20:06:29 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-18 20:06:29 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-18 20:08:03 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-18 20:08:03 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-18 20:08:11 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-18 20:08:11 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-18 20:08:14 - [35mhttp[39m: [35mGET /api/images 200 - - 154.984 ms[39m
+[35m[39m
+2023-09-18 20:09:06 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-18 20:09:06 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-18 20:09:20 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-18 20:09:20 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-18 20:09:27 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-18 20:09:27 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-18 20:09:50 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-18 20:09:50 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-18 20:09:55 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-18 20:09:55 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-18 20:10:49 - [35mhttp[39m: [35mPOST /api/images 201 - - 612.659 ms[39m
+[35m[39m
+2023-09-18 20:10:58 - [35mhttp[39m: [35mDELETE /api/images/6508d8f962210698e3be6f38 204 - - 158.519 ms[39m
+[35m[39m
+2023-09-18 20:11:02 - [35mhttp[39m: [35mGET /api/images 200 - - 148.895 ms[39m
+[35m[39m
+2023-09-18 20:13:29 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-18 20:13:29 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-18 20:13:33 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-18 20:13:33 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-18 20:13:47 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-18 20:13:47 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-18 20:14:13 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-18 20:14:13 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-18 20:14:26 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-18 20:14:26 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-18 20:14:36 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-18 20:14:36 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-18 20:19:04 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-18 20:19:04 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-18 20:19:17 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-18 20:19:17 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-18 20:19:30 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-18 20:19:30 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-18 20:20:03 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-18 20:20:03 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-18 20:20:09 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-18 20:20:09 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-18 20:20:18 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-18 20:20:18 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-18 20:20:19 - [35mhttp[39m: [35mGET /api/images 200 - - 2204.692 ms[39m
+[35m[39m
+2023-09-18 20:20:52 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-18 20:20:52 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-18 20:20:55 - [35mhttp[39m: [35mPOST /api/images 201 - - 648.513 ms[39m
+[35m[39m
+2023-09-18 20:21:08 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-18 20:21:08 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-18 20:21:11 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-18 20:21:11 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-18 20:21:46 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-18 20:21:46 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 19:25:17 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 19:25:17 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 19:26:05 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 19:26:05 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 19:26:50 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 19:26:50 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 19:26:51 - [35mhttp[39m: [35mGET /api/images 200 - - 2020.740 ms[39m
+[35m[39m
+2023-09-19 19:27:29 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 19:27:29 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 19:27:37 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 19:27:37 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 19:27:38 - [35mhttp[39m: [35mGET /api/images 200 - - 1384.694 ms[39m
+[35m[39m
+2023-09-19 19:27:41 - [35mhttp[39m: [35mDELETE /api/images/6508db56f3e2686f3517546f 204 - - 160.453 ms[39m
+[35m[39m
+2023-09-19 19:28:24 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 19:28:24 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 19:28:44 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 19:28:44 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 19:28:49 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 19:28:49 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 19:28:55 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 19:28:55 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 19:29:02 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 19:29:02 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 19:29:11 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 19:29:11 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 19:29:30 - [31merror[39m: [31mErro no sistema: Cannot destructure property 'originalname' of 'req.file' as it is undefined.[39m
+2023-09-19 19:29:36 - [35mhttp[39m: [35mPOST /api/images - - - - ms[39m
+[35m[39m
+2023-09-19 19:29:37 - [31merror[39m: [31mErro no sistema: Cannot destructure property 'originalname' of 'req.file' as it is undefined.[39m
+2023-09-19 19:29:38 - [35mhttp[39m: [35mPOST /api/images - - - - ms[39m
+[35m[39m
+2023-09-19 19:29:45 - [35mhttp[39m: [35mPOST /api/images 201 - - 607.885 ms[39m
+[35m[39m
+2023-09-19 19:29:51 - [35mhttp[39m: [35mGET /api/images 200 - - 167.337 ms[39m
+[35m[39m
+2023-09-19 19:29:59 - [35mhttp[39m: [35mDELETE /api/images/650a20d870181f5164dd3037 204 - - 155.518 ms[39m
+[35m[39m
+2023-09-19 19:32:56 - [35mhttp[39m: [35mGET /api/images 200 - - 150.812 ms[39m
+[35m[39m
+2023-09-19 19:38:24 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 19:38:24 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 19:38:37 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 19:38:37 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 19:38:43 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 19:38:43 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 19:39:17 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 19:39:17 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 19:39:44 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 19:39:44 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 19:39:45 - [35mhttp[39m: [35mGET /api/images 200 - - 1604.510 ms[39m
+[35m[39m
+2023-09-19 19:39:48 - [35mhttp[39m: [35mPOST /api/images 201 - - 615.503 ms[39m
+[35m[39m
+2023-09-19 19:39:56 - [35mhttp[39m: [35mGET /api/images 200 - - 157.053 ms[39m
+[35m[39m
+2023-09-19 19:40:08 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 19:40:08 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 19:43:41 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 19:43:41 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 19:45:12 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 19:45:12 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 19:46:49 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 19:46:49 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 19:46:59 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 19:46:59 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 19:47:28 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 19:47:28 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 19:47:49 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 19:47:49 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 19:48:11 - [32minfo[39m: [32mnull[39m
+2023-09-19 19:48:13 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 19:48:13 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 19:48:31 - [32minfo[39m: [32mnull[39m
+2023-09-19 19:48:33 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 19:48:33 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 19:50:44 - [32minfo[39m: [32mnull[39m
+2023-09-19 19:50:46 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 19:50:46 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 19:50:49 - [32minfo[39m: [32mnull[39m
+2023-09-19 19:50:52 - [32minfo[39m: [32mnull[39m
+2023-09-19 19:50:53 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 19:50:53 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 19:50:58 - [32minfo[39m: [32mnull[39m
+2023-09-19 19:51:00 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 19:51:00 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 19:51:16 - [32minfo[39m: [32mnull[39m
+2023-09-19 19:51:18 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 19:51:18 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 19:52:22 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 19:52:22 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 19:53:17 - [32minfo[39m: [32m[Function (anonymous)][39m
+2023-09-19 19:53:19 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 19:53:19 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 19:55:05 - [32minfo[39m: [32m[Function (anonymous)][39m
+2023-09-19 19:55:08 - [32minfo[39m: [32m[Function (anonymous)][39m
+2023-09-19 19:55:09 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 19:55:09 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 19:55:19 - [32minfo[39m: [32m[Function (anonymous)][39m
+2023-09-19 19:55:21 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 19:55:21 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 19:55:31 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 19:55:31 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 19:55:34 - [32minfo[39m: [32m[Function (anonymous)][39m
+2023-09-19 19:55:35 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 19:55:35 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 19:55:42 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 19:55:42 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 19:55:43 - [35mhttp[39m: [35mGET /api/images 200 - - 169.656 ms[39m
+[35m[39m
+2023-09-19 19:55:47 - [35mhttp[39m: [35mGET /api/images 200 - - 149.637 ms[39m
+[35m[39m
+2023-09-19 19:56:26 - [35mhttp[39m: [35mGET /api/images 200 - - 150.433 ms[39m
+[35m[39m
+2023-09-19 19:56:34 - [35mhttp[39m: [35mDELETE /api/images/650a23349319d9e5e55d1f75 204 - - 161.137 ms[39m
+[35m[39m
+2023-09-19 19:59:43 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 19:59:43 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 19:59:53 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 19:59:53 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 20:00:16 - [35mhttp[39m: [35mGET /api/images 200 - - 166.943 ms[39m
+[35m[39m
+2023-09-19 20:00:19 - [35mhttp[39m: [35mPOST /api/images 500 - - 31.780 ms[39m
+[35m[39m
+2023-09-19 20:00:21 - [35mhttp[39m: [35mPOST /api/images 500 - - 8.115 ms[39m
+[35m[39m
+2023-09-19 20:00:22 - [35mhttp[39m: [35mPOST /api/images 500 - - 7.979 ms[39m
+[35m[39m
+2023-09-19 20:00:55 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 20:00:55 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 20:01:13 - [35mhttp[39m: [35mPOST /api/images 500 - - 30.285 ms[39m
+[35m[39m
+2023-09-19 20:02:25 - [35mhttp[39m: [35mPOST /api/images 500 - - 8.844 ms[39m
+[35m[39m
+2023-09-19 20:02:27 - [35mhttp[39m: [35mPOST /api/images 500 - - 8.200 ms[39m
+[35m[39m
+2023-09-19 20:02:28 - [35mhttp[39m: [35mPOST /api/images 500 - - 7.775 ms[39m
+[35m[39m
+2023-09-19 20:02:29 - [35mhttp[39m: [35mPOST /api/images 500 - - 7.289 ms[39m
+[35m[39m
+2023-09-19 20:02:30 - [35mhttp[39m: [35mPOST /api/images 500 - - 6.148 ms[39m
+[35m[39m
+2023-09-19 20:02:43 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 20:02:43 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 20:02:46 - [35mhttp[39m: [35mGET /api/images 200 - - 159.978 ms[39m
+[35m[39m
+2023-09-19 20:02:50 - [35mhttp[39m: [35mPOST /api/images 201 - - 604.426 ms[39m
+[35m[39m
+2023-09-19 20:02:54 - [35mhttp[39m: [35mGET /api/images 200 - - 154.732 ms[39m
+[35m[39m
+2023-09-19 20:03:06 - [35mhttp[39m: [35mDELETE /api/images/650a289a416b5d99186a1883 204 - - 154.521 ms[39m
+[35m[39m
+2023-09-19 20:03:08 - [35mhttp[39m: [35mGET /api/images 200 - - 147.603 ms[39m
+[35m[39m
+2023-09-19 20:03:54 - [35mhttp[39m: [35mGET /api/images 200 - - 149.395 ms[39m
+[35m[39m
+2023-09-19 20:03:56 - [35mhttp[39m: [35mPOST /api/images 201 - - 567.260 ms[39m
+[35m[39m
+2023-09-19 20:04:02 - [35mhttp[39m: [35mGET /api/images 200 - - 149.735 ms[39m
+[35m[39m
+2023-09-19 20:04:18 - [35mhttp[39m: [35mDELETE /api/images/650a28dc416b5d99186a1889 204 - - 153.450 ms[39m
+[35m[39m
+2023-09-19 20:04:21 - [35mhttp[39m: [35mGET /api/images 200 - - 151.615 ms[39m
+[35m[39m
+2023-09-19 20:04:47 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 20:04:47 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 20:04:51 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 20:04:51 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 20:05:00 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 20:05:00 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 20:05:04 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 20:05:04 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 20:05:21 - [35mhttp[39m: [35mGET /api/images 200 - - 156.319 ms[39m
+[35m[39m
+2023-09-19 20:05:22 - [35mhttp[39m: [35mGET /api/images 200 - - 149.603 ms[39m
+[35m[39m
+2023-09-19 20:05:24 - [35mhttp[39m: [35mPOST /api/images 500 - - 32.227 ms[39m
+[35m[39m
+2023-09-19 20:05:26 - [35mhttp[39m: [35mPOST /api/images 500 - - 9.827 ms[39m
+[35m[39m
+2023-09-19 20:05:27 - [35mhttp[39m: [35mPOST /api/images 500 - - 7.684 ms[39m
+[35m[39m
+2023-09-19 20:05:45 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 20:05:45 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 20:05:47 - [35mhttp[39m: [35mGET /api/images 200 - - 161.555 ms[39m
+[35m[39m
+2023-09-19 20:05:49 - [35mhttp[39m: [35mPOST /api/images 500 - - 28.578 ms[39m
+[35m[39m
+2023-09-19 20:06:01 - [35mhttp[39m: [35mPOST /api/images 500 - - 10.754 ms[39m
+[35m[39m
+2023-09-19 20:06:02 - [35mhttp[39m: [35mPOST /api/images 500 - - 8.534 ms[39m
+[35m[39m
+2023-09-19 20:06:03 - [35mhttp[39m: [35mPOST /api/images 500 - - 6.295 ms[39m
+[35m[39m
+2023-09-19 20:06:05 - [35mhttp[39m: [35mGET /api/images 200 - - 150.743 ms[39m
+[35m[39m
+2023-09-19 20:06:08 - [35mhttp[39m: [35mPOST /api/images 500 - - 7.279 ms[39m
+[35m[39m
+2023-09-19 20:06:09 - [35mhttp[39m: [35mPOST /api/images 500 - - 6.984 ms[39m
+[35m[39m
+2023-09-19 20:06:20 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 20:06:20 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 20:06:42 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 20:06:42 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 20:06:46 - [35mhttp[39m: [35mPOST /api/images 201 - - 661.851 ms[39m
+[35m[39m
+2023-09-19 20:06:55 - [35mhttp[39m: [35mGET /api/images 200 - - 156.784 ms[39m
+[35m[39m
+2023-09-19 20:06:59 - [35mhttp[39m: [35mDELETE /api/images/650a29867b60f3034ff2b9ba 204 - - 156.896 ms[39m
+[35m[39m
+2023-09-19 20:07:01 - [35mhttp[39m: [35mGET /api/images 200 - - 148.759 ms[39m
+[35m[39m
+2023-09-19 20:07:34 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 20:07:34 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 20:07:49 - [35mhttp[39m: [35mPOST /api/images 201 - - 598.979 ms[39m
+[35m[39m
+2023-09-19 20:07:53 - [35mhttp[39m: [35mGET /api/images 200 - - 158.499 ms[39m
+[35m[39m
+2023-09-19 20:07:57 - [35mhttp[39m: [35mDELETE /api/images/650a29c58cb5005a39ca8fab 204 - - 156.450 ms[39m
+[35m[39m
+2023-09-19 20:08:15 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 20:08:15 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 20:08:31 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 20:08:31 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 20:08:45 - [35mhttp[39m: [35mGET /api/images 200 - - 156.642 ms[39m
+[35m[39m
+2023-09-19 20:08:47 - [35mhttp[39m: [35mPOST /api/images 201 - - 633.885 ms[39m
+[35m[39m
+2023-09-19 20:08:54 - [35mhttp[39m: [35mGET /api/images 200 - - 149.500 ms[39m
+[35m[39m
+2023-09-19 20:09:02 - [35mhttp[39m: [35mDELETE /api/images/650a29ffad76895e36c2a265 204 - - 159.404 ms[39m
+[35m[39m
+2023-09-19 20:09:18 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 20:09:18 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 20:10:27 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 20:10:27 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 20:11:17 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 20:11:17 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 20:11:18 - [35mhttp[39m: [35mGET /api/images 200 - - 1331.169 ms[39m
+[35m[39m
+2023-09-19 20:11:33 - [35mhttp[39m: [35mPOST /api/images 201 - - 612.208 ms[39m
+[35m[39m
+2023-09-19 20:11:37 - [35mhttp[39m: [35mGET /api/images 200 - - 150.289 ms[39m
+[35m[39m
+2023-09-19 20:12:02 - [35mhttp[39m: [35mDELETE /api/images/650a2aa4eaa106509be161d2 204 - - 155.223 ms[39m
+[35m[39m
+2023-09-19 20:12:17 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 20:12:17 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 20:12:31 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 20:12:31 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 20:12:45 - [35mhttp[39m: [35mGET /api/images 200 - - 163.775 ms[39m
+[35m[39m
+2023-09-19 20:12:58 - [35mhttp[39m: [35mPOST /api/images 201 - - 667.089 ms[39m
+[35m[39m
+2023-09-19 20:13:11 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 20:13:11 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 20:13:37 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 20:13:37 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 20:13:44 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 20:13:44 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 20:13:58 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 20:13:58 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 20:14:05 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 20:14:05 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 20:14:12 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 20:14:12 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 20:14:19 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 20:14:19 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 20:14:24 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 20:14:24 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 20:14:29 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 20:14:29 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 20:14:35 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 20:14:36 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 20:14:43 - [35mhttp[39m: [35mGET /api/images 200 - - 161.918 ms[39m
+[35m[39m
+2023-09-19 20:14:49 - [31merror[39m: [31mErro no sistema: Missing required key 'Key' in params[39m
+2023-09-19 20:15:03 - [35mhttp[39m: [35mDELETE /api/images/650a2af99a135d316370b7f7 - - - - ms[39m
+[35m[39m
+2023-09-19 20:15:19 - [35mhttp[39m: [35mGET /api/images 200 - - 148.334 ms[39m
+[35m[39m
+2023-09-19 20:15:22 - [35mhttp[39m: [35mPOST /api/images 201 - - 592.290 ms[39m
+[35m[39m
+2023-09-19 20:15:26 - [35mhttp[39m: [35mGET /api/images 200 - - 149.563 ms[39m
+[35m[39m
+2023-09-19 20:15:34 - [31merror[39m: [31mErro no sistema: Missing required key 'Key' in params[39m
+2023-09-19 20:15:45 - [35mhttp[39m: [35mDELETE /api/images/650a2b8a4aab3b75a8c807df - - - - ms[39m
+[35m[39m
+2023-09-19 20:15:48 - [31merror[39m: [31mErro no sistema: Missing required key 'Key' in params[39m
+2023-09-19 20:15:49 - [35mhttp[39m: [35mDELETE /api/images/650a2b8a4aab3b75a8c807df - - - - ms[39m
+[35m[39m
+2023-09-19 20:16:58 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 20:16:58 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 20:17:02 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 20:17:02 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 20:17:06 - [31merror[39m: [31mErro no sistema: Missing required key 'Key' in params[39m
+2023-09-19 20:17:14 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 20:17:14 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 20:17:18 - [31merror[39m: [31mErro no sistema: Missing required key 'Key' in params[39m
+2023-09-19 20:17:53 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 20:17:53 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 20:19:02 - [31merror[39m: [31mErro no sistema: Missing required key 'Key' in params[39m
+2023-09-19 20:19:09 - [35mhttp[39m: [35mDELETE /api/images/650a2b8a4aab3b75a8c807df - - - - ms[39m
+[35m[39m
+2023-09-19 20:20:02 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 20:20:02 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 20:20:12 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 20:20:12 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 20:20:40 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 20:20:40 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 20:20:54 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 20:20:54 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 20:21:10 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 20:21:10 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 20:21:17 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 20:21:17 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 20:21:23 - [35mhttp[39m: [35mDELETE /api/images/650a2b8a4aab3b75a8c807df 204 - - 529.970 ms[39m
+[35m[39m
+2023-09-19 20:21:50 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 20:21:50 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 20:21:58 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 20:21:58 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 20:22:11 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 20:22:11 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 20:22:21 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 20:22:21 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 20:22:21 - [35mhttp[39m: [35mGET /api/images 200 - - 160.082 ms[39m
+[35m[39m
+2023-09-19 20:22:25 - [35mhttp[39m: [35mPOST /api/images 201 - - 593.965 ms[39m
+[35m[39m
+2023-09-19 20:22:31 - [35mhttp[39m: [35mGET /api/images 200 - - 152.001 ms[39m
+[35m[39m
+2023-09-19 20:22:36 - [35mhttp[39m: [35mDELETE /api/images/650a2d3028b76395211e1888 204 - - 725.724 ms[39m
+[35m[39m
+2023-09-19 20:23:23 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 20:23:23 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 20:23:25 - [35mhttp[39m: [35mGET /api/images 200 - - 162.452 ms[39m
+[35m[39m
+2023-09-19 20:23:27 - [35mhttp[39m: [35mPOST /api/images 201 - - 180.041 ms[39m
+[35m[39m
+2023-09-19 20:24:14 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 20:24:14 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 20:24:18 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 20:24:18 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 20:24:22 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 20:24:22 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 20:24:31 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 20:24:31 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 20:24:43 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 20:24:43 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 20:24:50 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 20:24:50 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 20:24:57 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 20:24:57 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 20:25:02 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 20:25:02 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 20:25:28 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 20:25:28 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 20:25:33 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 20:25:33 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 20:25:40 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 20:25:40 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 20:25:44 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 20:25:44 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 20:25:49 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 20:25:49 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 20:26:11 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 20:26:11 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 20:26:17 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 20:26:17 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 20:26:21 - [35mhttp[39m: [35mGET /api/images 200 - - 168.616 ms[39m
+[35m[39m
+2023-09-19 20:26:33 - [35mhttp[39m: [35mGET /api/odds 404 - - 1.906 ms[39m
+[35m[39m
+2023-09-19 20:26:37 - [35mhttp[39m: [35mGET /files/424909dc1640e2a92e4f09d6ac0e7846-Capturar3.PNG 404 - - 2.906 ms[39m
+[35m[39m
+2023-09-19 20:26:46 - [35mhttp[39m: [35mGET /files/6d566471b00602a21bfcf894ca9cbb03-Capturar2.PNG 200 - - 3.309 ms[39m
+[35m[39m
+2023-09-19 20:26:46 - [35mhttp[39m: [35mGET /favicon.ico 404 - - 0.427 ms[39m
+[35m[39m
+2023-09-19 20:26:58 - [35mhttp[39m: [35mDELETE /api/images/650a2d3028b76395211e1888 404 - - 150.617 ms[39m
+[35m[39m
+2023-09-19 20:27:01 - [31merror[39m: [31mErro no sistema: Cannot read properties of undefined (reading 'key')[39m
+2023-09-19 20:28:03 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 20:28:03 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 20:28:05 - [31merror[39m: [31mErro no sistema: Cannot read properties of undefined (reading 'key')[39m
+2023-09-19 20:28:07 - [35mhttp[39m: [35mDELETE /api/images/650a2d6fe949e193a5a2db99 - - - - ms[39m
+[35m[39m
+2023-09-19 20:28:17 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 20:28:17 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 20:28:26 - [35mhttp[39m: [35mDELETE /api/images/650a2d6fe949e193a5a2db99 - - - - ms[39m
+[35m[39m
+2023-09-19 20:28:34 - [35mhttp[39m: [35mGET /files/6d566471b00602a21bfcf894ca9cbb03-Capturar2.PNG 404 - - 6.571 ms[39m
+[35m[39m
+2023-09-19 20:28:43 - [35mhttp[39m: [35mGET /api/images 200 - - 163.049 ms[39m
+[35m[39m
+2023-09-19 20:28:45 - [35mhttp[39m: [35mGET /api/images 200 - - 150.457 ms[39m
+[35m[39m
+2023-09-19 20:29:04 - [35mhttp[39m: [35mGET /api/images 200 - - 148.844 ms[39m
+[35m[39m
+2023-09-19 20:29:06 - [35mhttp[39m: [35mPOST /api/images 201 - - 176.748 ms[39m
+[35m[39m
+2023-09-19 20:29:10 - [35mhttp[39m: [35mGET /api/images 200 - - 148.313 ms[39m
+[35m[39m
+2023-09-19 20:30:05 - [35mhttp[39m: [35mDELETE /api/images/650a2ec27519b4d0dd488df2 - - - - ms[39m
+[35m[39m
+2023-09-19 20:31:55 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 20:31:55 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 20:32:10 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 20:32:10 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 20:32:13 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 20:32:13 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 20:32:55 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 20:32:55 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 20:33:40 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 20:33:40 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 20:33:55 - [35mhttp[39m: [35mPOST /api/images 201 - - 185.865 ms[39m
+[35m[39m
+2023-09-19 20:34:00 - [35mhttp[39m: [35mGET /api/images 200 - - 157.116 ms[39m
+[35m[39m
+2023-09-19 20:34:23 - [35mhttp[39m: [35mDELETE /api/images/650a2fe3c45db9432617e6ac - - - - ms[39m
+[35m[39m
+2023-09-19 20:34:46 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 20:34:46 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 20:34:59 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 20:34:59 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 20:35:04 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 20:35:04 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 20:35:13 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 20:35:13 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 20:35:32 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 20:35:32 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 20:35:47 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 20:35:47 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 20:35:54 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 20:35:54 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 20:36:02 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 20:36:02 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 20:36:09 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 20:36:09 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 20:36:18 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 20:36:18 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 20:36:28 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 20:36:28 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 20:36:40 - [35mhttp[39m: [35mGET /api/images 200 - - 179.354 ms[39m
+[35m[39m
+2023-09-19 20:36:41 - [35mhttp[39m: [35mGET /api/images 200 - - 153.997 ms[39m
+[35m[39m
+2023-09-19 20:37:14 - [35mhttp[39m: [35mGET /api/images 200 - - 149.398 ms[39m
+[35m[39m
+2023-09-19 20:37:16 - [35mhttp[39m: [35mPOST /api/images 201 - - 175.425 ms[39m
+[35m[39m
+2023-09-19 20:37:19 - [35mhttp[39m: [35mGET /api/images 200 - - 149.642 ms[39m
+[35m[39m
+2023-09-19 20:37:29 - [35mhttp[39m: [35mDELETE /api/images/650a30ab6c75a2c9fe155053 - - - - ms[39m
+[35m[39m
+2023-09-19 20:37:40 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 20:37:40 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 20:37:54 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 20:37:54 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 20:38:00 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 20:38:00 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 20:38:09 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 20:38:09 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-19 20:38:29 - [35mhttp[39m: [35mGET /api/images 200 - - 160.788 ms[39m
+[35m[39m
+2023-09-19 20:38:30 - [35mhttp[39m: [35mPOST /api/images 201 - - 177.289 ms[39m
+[35m[39m
+2023-09-19 20:38:50 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-19 20:38:50 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-21 19:05:10 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-21 19:05:10 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-21 19:05:16 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-21 19:05:16 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-21 19:05:30 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-21 19:05:30 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-21 19:05:35 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-21 19:05:35 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-21 19:05:45 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-21 19:05:45 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-21 19:05:52 - [35mhttp[39m: [35mGET /api/images 200 - - 162.396 ms[39m
+[35m[39m
+2023-09-21 19:05:58 - [35mhttp[39m: [35mPOST /api/images 201 - - 172.979 ms[39m
+[35m[39m
+2023-09-21 19:06:09 - [35mhttp[39m: [35mGET /files/e5450be74aec705f4bd7af386de4e8df-Capturar2.PNG 200 - - 3.366 ms[39m
+[35m[39m
+2023-09-21 19:06:09 - [35mhttp[39m: [35mGET /favicon.ico 404 - - 1.460 ms[39m
+[35m[39m
+2023-09-21 19:06:14 - [35mhttp[39m: [35mGET /api/images 200 - - 148.594 ms[39m
+[35m[39m
+2023-09-21 19:06:35 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-21 19:06:35 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-21 19:06:44 - [35mhttp[39m: [35mGET /api/images 200 - - 154.515 ms[39m
+[35m[39m
+2023-09-21 19:06:45 - [35mhttp[39m: [35mGET /api/images 200 - - 145.056 ms[39m
+[35m[39m
+2023-09-21 19:07:01 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-21 19:07:01 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-21 19:07:39 - [35mhttp[39m: [35mGET /api/images 200 - - 152.888 ms[39m
+[35m[39m
+2023-09-21 19:07:41 - [35mhttp[39m: [35mPOST /api/images 201 - - 177.545 ms[39m
+[35m[39m
+2023-09-21 19:08:06 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-21 19:08:06 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-21 19:08:11 - [35mhttp[39m: [35mGET /api/images 200 - - 163.490 ms[39m
+[35m[39m
+2023-09-21 19:10:11 - [35mhttp[39m: [35mGET /api/images 200 - - 146.670 ms[39m
+[35m[39m
+2023-09-21 19:10:13 - [35mhttp[39m: [35mPOST /api/images 201 - - 179.140 ms[39m
+[35m[39m
+2023-09-21 19:10:46 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-21 19:10:46 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-21 19:10:48 - [35mhttp[39m: [35mGET /api/images 200 - - 155.331 ms[39m
+[35m[39m
+2023-09-21 19:10:50 - [35mhttp[39m: [35mPOST /api/images 201 - - 550.962 ms[39m
+[35m[39m
+2023-09-21 19:11:37 - [35mhttp[39m: [35mDELETE /api/images/650cbf6acd009d7b34904d62 - - - - ms[39m
+[35m[39m
+2023-09-21 19:11:39 - [35mhttp[39m: [35mGET /api/images 200 - - 147.728 ms[39m
+[35m[39m
+2023-09-21 19:11:51 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-21 19:11:51 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-21 19:11:59 - [35mhttp[39m: [35mGET /api/images 200 - - 165.334 ms[39m
+[35m[39m
+2023-09-21 19:12:08 - [35mhttp[39m: [35mDELETE /api/images/650cbf6acd009d7b34904d62 - - - - ms[39m
+[35m[39m
+2023-09-21 19:12:45 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-21 19:12:45 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-21 19:12:55 - [35mhttp[39m: [35mGET /api/images 200 - - 152.078 ms[39m
+[35m[39m
+2023-09-21 19:12:58 - [35mhttp[39m: [35mPOST /api/images 201 - - 555.018 ms[39m
+[35m[39m
+2023-09-21 19:14:12 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-21 19:14:12 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-21 19:14:18 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-21 19:14:18 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-21 19:14:25 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-21 19:14:25 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-21 19:14:29 - [35mhttp[39m: [35mGET /api/images 200 - - 164.172 ms[39m
+[35m[39m
+2023-09-21 19:14:39 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-21 19:14:39 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-21 19:15:20 - [35mhttp[39m: [35mGET /api/images 200 - - 152.155 ms[39m
+[35m[39m
+2023-09-21 19:15:23 - [35mhttp[39m: [35mPOST /api/images 201 - - 561.139 ms[39m
+[35m[39m
+2023-09-21 19:15:25 - [35mhttp[39m: [35mGET /api/images 200 - - 147.895 ms[39m
+[35m[39m
+2023-09-21 19:16:00 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-21 19:16:00 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-21 19:16:04 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-21 19:16:04 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-21 19:16:14 - [35mhttp[39m: [35mGET /api/images 200 - - 148.543 ms[39m
+[35m[39m
+2023-09-21 19:16:15 - [35mhttp[39m: [35mGET /api/images 200 - - 144.886 ms[39m
+[35m[39m
+2023-09-21 19:16:28 - [35mhttp[39m: [35mPOST /api/images 201 - - 525.039 ms[39m
+[35m[39m
+2023-09-21 19:16:32 - [35mhttp[39m: [35mGET /api/images 200 - - 145.278 ms[39m
+[35m[39m
+2023-09-21 19:16:54 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-21 19:16:54 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-21 19:16:55 - [35mhttp[39m: [35mGET /api/images 200 - - 1776.286 ms[39m
+[35m[39m
+2023-09-21 19:17:35 - [35mhttp[39m: [35mDELETE /api/images/650cc0bcba3ef8482d15fcf5 - - - - ms[39m
+[35m[39m
+2023-09-21 19:17:37 - [35mhttp[39m: [35mGET /api/images 200 - - 148.064 ms[39m
+[35m[39m
+2023-09-21 19:19:31 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-21 19:19:31 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-21 19:19:41 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-21 19:19:41 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-21 19:19:52 - [35mhttp[39m: [35mGET /api/images 200 - - 166.472 ms[39m
+[35m[39m
+2023-09-21 19:19:55 - [35mhttp[39m: [35mDELETE /api/images/650cc0bcba3ef8482d15fcf5 204 - - 697.898 ms[39m
+[35m[39m
+2023-09-21 19:20:04 - [35mhttp[39m: [35mPOST /api/images 201 - - 556.790 ms[39m
+[35m[39m
+2023-09-21 19:20:06 - [35mhttp[39m: [35mGET /api/images 200 - - 144.958 ms[39m
+[35m[39m
+2023-09-21 19:20:14 - [35mhttp[39m: [35mDELETE /api/images/650cc1946eeffbb10b362cf6 204 - - 449.947 ms[39m
+[35m[39m
+2023-09-21 19:20:26 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-21 19:20:26 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-21 19:20:29 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-21 19:20:29 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-21 19:20:30 - [35mhttp[39m: [35mGET /api/images 200 - - 1203.784 ms[39m
+[35m[39m
+2023-09-21 19:20:41 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-21 19:20:41 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-21 19:20:46 - [35mhttp[39m: [35mPOST /api/images 201 - - 544.125 ms[39m
+[35m[39m
+2023-09-21 19:21:02 - [35mhttp[39m: [35mGET /api/images 200 - - 156.018 ms[39m
+[35m[39m
+2023-09-21 19:21:23 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-21 19:21:23 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-21 19:21:31 - [35mhttp[39m: [35mGET /api/images 200 - - 175.876 ms[39m
+[35m[39m
+2023-09-21 19:21:38 - [31merror[39m: [31mErro no sistema: ENOENT: no such file or directory, unlink 'C:\projects\Lider_Madeiras\API_Images\tmp\uploads\074a4f2c370e443cb62fb40450c3b2b5-Capturar2.PNG'[39m
+2023-09-21 19:22:06 - [32minfo[39m: [32mConectou ao DB![39m
+2023-09-21 19:22:06 - [32minfo[39m: [32mAplicação rodando na porta: 4000.[39m
+2023-09-21 19:22:06 - [35mhttp[39m: [35mGET /api/images 200 - - 156.798 ms[39m
+[35m[39m
+2023-09-21 19:22:13 - [35mhttp[39m: [35mDELETE /api/images/650cc1bea45e5aec09a3c45b 204 - - 661.077 ms[39m
+[35m[39m

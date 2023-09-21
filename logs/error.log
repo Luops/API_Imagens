@@ -49,3 +49,25 @@
 2023-09-11 19:15:27 - [31merror[39m: [31mErro: MongoServerError: bad auth : Authentication failed.[39m
 2023-09-11 20:11:16 - [31merror[39m: [31mNão foi possível se conectar com o DB![39m
 2023-09-11 20:11:16 - [31merror[39m: [31mErro: MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/[39m
+2023-09-14 19:58:28 - [31merror[39m: [31mErro no sistema: products.remove is not a function[39m
+2023-09-15 19:13:48 - [31merror[39m: [31mErro no sistema: Parameter "filter" to findOne() must be an object, got "65038d206253c51a12ba9c26" (type string)[39m
+2023-09-15 19:15:32 - [31merror[39m: [31mErro no sistema: Cannot destructure property 'originalname' of 'req.file' as it is undefined.[39m
+2023-09-15 19:18:11 - [31merror[39m: [31mErro no sistema: ImageModel is not defined[39m
+2023-09-15 19:18:54 - [31merror[39m: [31mErro no sistema: product.remove is not a function[39m
+2023-09-15 19:20:34 - [31merror[39m: [31mErro no sistema: Cannot read properties of undefined (reading 'create')[39m
+2023-09-15 20:06:19 - [31merror[39m: [31mErro no sistema: product.remove is not a function[39m
+2023-09-15 20:10:06 - [31merror[39m: [31mErro no sistema: Model.findById() no longer accepts a callback[39m
+2023-09-15 20:12:49 - [31merror[39m: [31mErro no sistema: product.remove is not a function[39m
+2023-09-18 19:11:49 - [31merror[39m: [31mErro no sistema: product.remove is not a function[39m
+2023-09-18 19:14:53 - [31merror[39m: [31mErro no sistema: Cannot destructure property 'originalname' of 'req.file' as it is undefined.[39m
+2023-09-19 19:29:30 - [31merror[39m: [31mErro no sistema: Cannot destructure property 'originalname' of 'req.file' as it is undefined.[39m
+2023-09-19 19:29:37 - [31merror[39m: [31mErro no sistema: Cannot destructure property 'originalname' of 'req.file' as it is undefined.[39m
+2023-09-19 20:14:49 - [31merror[39m: [31mErro no sistema: Missing required key 'Key' in params[39m
+2023-09-19 20:15:34 - [31merror[39m: [31mErro no sistema: Missing required key 'Key' in params[39m
+2023-09-19 20:15:48 - [31merror[39m: [31mErro no sistema: Missing required key 'Key' in params[39m
+2023-09-19 20:17:06 - [31merror[39m: [31mErro no sistema: Missing required key 'Key' in params[39m
+2023-09-19 20:17:18 - [31merror[39m: [31mErro no sistema: Missing required key 'Key' in params[39m
+2023-09-19 20:19:02 - [31merror[39m: [31mErro no sistema: Missing required key 'Key' in params[39m
+2023-09-19 20:27:01 - [31merror[39m: [31mErro no sistema: Cannot read properties of undefined (reading 'key')[39m
+2023-09-19 20:28:05 - [31merror[39m: [31mErro no sistema: Cannot read properties of undefined (reading 'key')[39m
+2023-09-21 19:21:38 - [31merror[39m: [31mErro no sistema: ENOENT: no such file or directory, unlink 'C:\projects\Lider_Madeiras\API_Images\tmp\uploads\074a4f2c370e443cb62fb40450c3b2b5-Capturar2.PNG'[39m
